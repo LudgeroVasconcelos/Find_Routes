@@ -1,0 +1,146 @@
+[
+	{
+		"name":"Main route",
+		"description":"The primary route",
+		"path": [
+			{
+				"point_a": {"latitude":"38.735066", "longitude":"-9.108095"},
+				"point_b": {"latitude":"38.738380", "longitude":"-9.108825"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"10"},
+					{"occurrence":"earthquake", "level":"35"},
+					{"occurrence":"fire", "level":"40"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.738380", "longitude":"-9.108825"},
+				"point_b": {"latitude":"38.737175", "longitude":"-9.113030"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"5"},
+					{"occurrence":"earthquake", "level":"15"},
+					{"occurrence":"fire", "level":"30"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.737175", "longitude":"-9.113030"},
+				"point_b": {"latitude":"38.741426", "longitude":"-9.114275"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"5"},
+					{"occurrence":"earthquake", "level":"24"},
+					{"occurrence":"fire", "level":"10"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.741426", "longitude":"-9.114275"},
+				"point_b": {"latitude":"38.744049", "longitude":"-9.110799"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"32"},
+					{"occurrence":"earthquake", "level":"9"},
+					{"occurrence":"fire", "level":"9"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.744049", "longitude":"-9.110799"},
+				"point_b": {"latitude":"38.746861", "longitude":"-9.109769"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"2"},
+					{"occurrence":"earthquake", "level":"45"},
+					{"occurrence":"fire", "level":"90"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			}
+		]
+	},
+	{
+		"name":"Secondary route",
+		"description":"The secondary route",
+		"path": [
+			{
+				"point_a": {"latitude":"38.74854760357718", "longitude":"-9.096714019251522"},
+				"point_b": {"latitude":"38.74366086131787", "longitude":"-9.0982589716441"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"10"},
+					{"occurrence":"earthquake", "level":"35"},
+					{"occurrence":"fire", "level":"40"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.74366086131787", "longitude":"-9.0982589716441"},
+				"point_b": {"latitude":"38.741987242564875", "longitude":"-9.10049056954449"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"5"},
+					{"occurrence":"earthquake", "level":"15"},
+					{"occurrence":"fire", "level":"30"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.741987242564875", "longitude":"-9.10049056954449"},
+				"point_b": {"latitude":"38.73656444812108", "longitude":"-9.103537558985408"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"9"},
+					{"occurrence":"earthquake", "level":"44"},
+					{"occurrence":"fire", "level":"79"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.73656444812108", "longitude":"-9.103537558985408"},
+				"point_b": {"latitude":"38.73187775109656", "longitude":"-9.105082511377987"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"2"},
+					{"occurrence":"earthquake", "level":"80"},
+					{"occurrence":"fire", "level":"1"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.73187775109656", "longitude":"-9.105082511377987"},
+				"point_b": {"latitude":"38.7279607755648", "longitude":"-9.108386992884334"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"5"},
+					{"occurrence":"earthquake", "level":"55"},
+					{"occurrence":"fire", "level":"67"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.7279607755648", "longitude":"-9.108386992884334"},
+				"point_b": {"latitude":"38.72621982861527", "longitude":"-9.110704421473201"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"12"},
+					{"occurrence":"earthquake", "level":"98"},
+					{"occurrence":"fire", "level":"46"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			}
+		]
+	}
+]

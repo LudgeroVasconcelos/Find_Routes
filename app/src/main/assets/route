@@ -1,0 +1,32 @@
+[
+	{
+		"name":"Main route",
+		"description":"The only available route at the moment",
+		"path": [
+			{
+				"point_a": {"latitude":"38.735066", "longitude":"-9.108095"},
+				"point_b": {"latitude":"38.738380", "longitude":"-9.108825"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"10"},
+					{"occurrence":"earthquake", "level":"35"},
+					{"occurrence":"fire", "level":"40"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			},
+			{
+				"point_a": {"latitude":"38.738380", "longitude":"-9.108825"},
+				"point_b": {"latitude":"38.737175", "longitude":"--9.113030"},
+				"risks":[
+					{"occurrence":"tsunami", "level":"5"},
+					{"occurrence":"earthquake", "level":"15"},
+					{"occurrence":"fire", "level":"30"}
+				],
+				"state": true,
+				"valid": true,
+				"timestamp":"1427614800"
+			}
+		]
+	}
+]

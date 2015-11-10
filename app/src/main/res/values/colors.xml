@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="path" type="color">#FF4719</item>
+    <item name="searchTextDimmedOut" type="color">#A8A8A8</item>
+</resources>

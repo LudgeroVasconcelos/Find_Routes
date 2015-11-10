@@ -1,0 +1,74 @@
+[
+	{
+		"point_a": {"latitude":"38.74854760357718", "longitude":"-9.096714019251522"},
+		"point_b": {"latitude":"38.74366086131787", "longitude":"-9.0982589716441"},
+		"occurrence":[
+			{"tsunami":"10"},
+			{"earthquake":"25"},
+			{"fire":"30"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+	{
+		"point_a": {"latitude":"38.74366086131787", "longitude":"-9.0982589716441"},
+		"point_b": {"latitude":"38.741987242564875", "longitude":"-9.10049056954449"},
+		"occurrence":[
+			{"tsunami":"10"},
+			{"earthquake":"25"},
+			{"fire":"30"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+	{
+		"point_a": {"latitude":"38.741987242564875", "longitude":"-9.10049056954449"},
+		"point_b": {"latitude":"38.73656444812108", "longitude":"-9.103537558985408"},
+		"occurrence":[
+			{"tsunami":"5"},
+			{"earthquake":"40"},
+			{"fire":"20"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+	{
+		"point_a": {"latitude":"38.73656444812108", "longitude":"-9.103537558985408"},
+		"point_b": {"latitude":"38.73187775109656", "longitude":"-9.105082511377987"},
+		"occurrence":[
+			{"tsunami":"9"},
+			{"earthquake":"17"},
+			{"fire":"21"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+	{
+		"point_a": {"latitude":"38.73187775109656", "longitude":"-9.105082511377987"},
+		"point_b": {"latitude":"38.7279607755648", "longitude":"-9.108386992884334"},
+		"occurrence":[
+			{"tsunami":"18"},
+			{"earthquake":"25"},
+			{"fire":"3"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+	{
+		"point_a": {"latitude":"38.7279607755648", "longitude":"-9.108386992884334"},
+		"point_b": {"latitude":"38.72621982861527", "longitude":"-9.110704421473201"},
+		"occurrence":[
+			{"tsunami":"0"},
+			{"earthquake":"22"},
+			{"fire":"30"}
+		],
+		"state": true,
+		"valid": true,
+		"timestamp":"1427614800"
+	},
+]
